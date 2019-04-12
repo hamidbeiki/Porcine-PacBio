@@ -12,3 +12,6 @@ Supplementary figures and tables
 
 [AdditionL file2](https://iastate.box.com/s/z5hy8eg6uwsqshn6wjbe2ztv1qeb82z3):
 PacBio Iso-seq based transcriptome annotated based on Ensembl Sscrofa11.1 annotation (release 93).
+
+[AdditionL file3](https://iastate.box.com/s/3j1mdjfpl4ieqwc4jy88hn13fq4uw1td):
+PacBio Iso-seq based transcriptome annotated based on NCBI Sscrofa11.1 annotation (release 106). 
