@@ -1,6 +1,5 @@
 # Improved annotation of the domestic pig genome through integration of Iso-Seq and RNA-seq data
 
-
 Beiki, H., H. Liu, J. Huang, N. Manchanda, D. Nonneman, T.P.L. Smith, J. M. Reecy, C. K.
 Tuggle
 
@@ -15,4 +14,7 @@ Supplementary figures and tables
 PacBio Iso-seq based transcriptome annotated based on Ensembl Sscrofa11.1 annotation (release 93).
 
 [AdditionL file3](https://iastate.box.com/s/3j1mdjfpl4ieqwc4jy88hn13fq4uw1td):
-PacBio Iso-seq based transcriptome annotated based on NCBI Sscrofa11.1 annotation (release 106). 
+PacBio Iso-seq based transcriptome annotated based on NCBI Sscrofa11.1 annotation (release 106).
+
+### contact:
+beiki@iastate.edu
