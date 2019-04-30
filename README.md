@@ -12,7 +12,7 @@ Our understanding of the pig transcriptome is limited. RNA transcript diversity 
 [Ensembl Sscrofa11.1 annotation (release 93)](https://iastate.box.com/s/z5hy8eg6uwsqshn6wjbe2ztv1qeb82z3)
 
 
-[NCBI Sscrofa11.1 annotation (release 106)](https://iastate.box.com/s/3j1mdjfpl4ieqwc4jy88hn13fq4uw1td)
+[NCBI Sscrofa11.1 annotation (release 109)](https://iastate.box.com/s/3j1mdjfpl4ieqwc4jy88hn13fq4uw1td)
 
 #### contact:
 beiki@iastate.edu
