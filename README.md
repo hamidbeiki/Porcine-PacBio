@@ -14,5 +14,8 @@ Our understanding of the pig transcriptome is limited. RNA transcript diversity 
 
 [NCBI Sscrofa11.1 annotation (release 109)](https://iastate.box.com/s/3j1mdjfpl4ieqwc4jy88hn13fq4uw1td)
 
+#### Citation:
+Beiki H, Liu H, Huang J, Manchanda N, Nonneman D, Smith TPL, Reecy JM, Tuggle CK. Improved annotation of the domestic pig genome through integration of Iso-Seq and RNA-seq data. BMC Genomics. 2019 May 7;20(1):344. doi:10.1186/s12864-019-5709-y. PubMed PMID: 31064321.
+
 #### contact:
 beiki@iastate.edu
